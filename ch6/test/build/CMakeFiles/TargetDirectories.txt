@@ -1,0 +1,2 @@
+/home/jiaxi/slambook/ch6/test/build/CMakeFiles/edit_cache.dir
+/home/jiaxi/slambook/ch6/test/build/CMakeFiles/rebuild_cache.dir
