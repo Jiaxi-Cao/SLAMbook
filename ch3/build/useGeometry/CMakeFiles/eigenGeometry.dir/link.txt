@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -rdynamic CMakeFiles/eigenGeometry.dir/eigenGeometry.cpp.o -o ../bin/eigenGeometry 

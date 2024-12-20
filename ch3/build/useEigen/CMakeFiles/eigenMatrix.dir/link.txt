@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -O3 -DNDEBUG CMakeFiles/eigenMatrix.dir/eigenMatrix.cpp.o -o ../bin/eigenMatrix 
