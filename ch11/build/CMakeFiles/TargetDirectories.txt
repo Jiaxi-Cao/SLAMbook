@@ -1,0 +1,5 @@
+/home/jiaxi/slambook/ch11/build/CMakeFiles/feature_training.dir
+/home/jiaxi/slambook/ch11/build/CMakeFiles/loop_closure.dir
+/home/jiaxi/slambook/ch11/build/CMakeFiles/gen_vocab.dir
+/home/jiaxi/slambook/ch11/build/CMakeFiles/edit_cache.dir
+/home/jiaxi/slambook/ch11/build/CMakeFiles/rebuild_cache.dir
