@@ -1,0 +1,17 @@
+%YAML:1.0
+# data
+# the tum dataset directory, change it to yours! 
+# dataset_dir: /media/xiang/Data/Dataset/Kitti/dataset/sequences/00
+dataset_dir: /home/jiaxi/Datasets/KITTI/data_odometry_gray/dataset/sequences/18
+
+# camera intrinsics
+camera.fx: 517.3
+camera.fy: 516.5
+camera.cx: 325.1
+camera.cy: 249.7
+
+num_features: 150
+num_features_init: 50
+num_features_tracking: 50
+
+#sequence_name: "00"  # 默认序列编号，但是用不到拼接路径了，直接指定00文件里的txt就行，相机没换。
